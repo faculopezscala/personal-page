@@ -1,0 +1,11 @@
+name: Social media links are functional
+page: home
+page_path: pages/index.tsx
+task: Verify social media links work correctly
+steps:
+- Navigate to the homepage
+- Locate social media icons
+- Click on a social media icon
+- Verify it opens the correct platform in a new tab
+expected_result: Clicking social media icons should open respective platforms in a
+  new tab

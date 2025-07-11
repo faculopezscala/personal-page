@@ -1,0 +1,10 @@
+name: Footer links navigate correctly
+page: home
+page_path: pages/index.tsx
+task: Verify footer links function properly
+steps:
+- Navigate to the homepage
+- Scroll to the footer
+- Click on a footer link
+- Verify navigation to the correct page/section
+expected_result: Clicking footer links should navigate to appropriate pages/sections

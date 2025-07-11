@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "timestamp": 1752258390.8825037,
+    "version": 2,
+    "git": {
+      "branch": "bugster/tests/onboarding-20250711-182628",
+      "commit": "0d32ce6cc4204c59a01a26a5377d8fecb293626d"
+    }
+  },
+  "data": {
+    "framework": {
+      "id": "next",
+      "name": "Next.js",
+      "dir_path": "/home/bugsteruser/app/repo/"
+    },
+    "router_type": "pages",
+    "stats": {
+      "fileCount": 7,
+      "routeCount": 0,
+      "apiRouteCount": 0,
+      "layoutCount": 0
+    },
+    "layouts": [],
+    "routes": [],
+    "api_routes": [],
+    "all_paths": [
+      "components/Footer.tsx",
+      "components/Header.tsx",
+      "components/SocialMedia.tsx",
+      "next.config.js",
+      "pages/_app.tsx",
+      "pages/_document.tsx",
+      "pages/index.tsx"
+    ]
+  }
+}
