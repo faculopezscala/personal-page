@@ -1,0 +1,10 @@
+name: Homepage loads successfully
+page: home
+page_path: pages/index.tsx
+task: Verify the homepage loads correctly with all elements
+steps:
+- Navigate to the homepage
+- Verify header is visible
+- Verify main content is visible
+- Verify footer is visible
+expected_result: Homepage should load with header, main content, and footer visible

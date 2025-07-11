@@ -1,0 +1,11 @@
+name: Page is responsive on mobile devices
+page: home
+page_path: pages/index.tsx
+task: Verify the homepage displays correctly on mobile devices
+steps:
+- Navigate to the homepage
+- Resize browser to mobile dimensions (e.g., 375px width)
+- Verify header displays correctly on mobile
+- Verify content is properly formatted for mobile viewing
+- Verify footer is properly formatted for mobile viewing
+expected_result: Homepage layout should adjust appropriately for mobile screen sizes

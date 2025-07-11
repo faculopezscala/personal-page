@@ -1,0 +1,10 @@
+name: Header navigation works correctly
+page: home
+page_path: pages/index.tsx
+task: Verify header navigation links function correctly
+steps:
+- Navigate to the homepage
+- Locate navigation links in the header
+- Click on a navigation link
+- Verify navigation to the correct page/section occurs
+expected_result: Clicking navigation links should navigate to the correct page/section
